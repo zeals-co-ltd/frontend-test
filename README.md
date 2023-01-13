@@ -1,5 +1,9 @@
 # Zeals Frontend Test
 
+## Setup
+- Fork the repo to your personal Github account
+- Run `pnpm install` and `pnpm run dev`
+
 ## Instructions
 
 Given the mock data from `mockdata.ts`, create a UI that displays each chatbot as a card component in a grid.
